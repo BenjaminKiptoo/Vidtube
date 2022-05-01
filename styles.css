@@ -115,6 +115,7 @@ color: #5a5a5a;
   flex-wrap: wrap;
 }
 .Top-channels a img{
+  height: 25px;
 width: 25px;
 border-radius: 50%;
 margin-right: 20px;
@@ -133,7 +134,6 @@ margin-right: 20px;
   padding-top: 10px;
   padding-bottom: 20px;
  
-
   }
   
   .banner{
